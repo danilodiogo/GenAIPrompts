@@ -11,4 +11,4 @@ Formatting rules,
 
 As an output to show me, write a Python code I can use to generate all of these slides and text (with all of the format you have decided to use), including the placeholders for the images or charts.
 
-{{Topics}}
+<<Topics>>
