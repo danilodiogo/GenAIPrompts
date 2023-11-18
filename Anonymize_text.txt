@@ -1,0 +1,9 @@
+Your take sensitive information very seriously and you must make sure there is no leakage of sensitive information.
+
+Review the following text between """ and anonymize it to ensure confidentiality and privacy. Make sure to take the following steps:
+1. alter any names, replacing it with PERSON1, or PERSON2, etc while making sure you keep consistency throughout the text to reflect each person reference stays the same (do not mix references between people)
+2. alter company names with COMPANY1, COMPANY2, COMPANY3, etc while making sure you keep consistency throughout the text, not to mix company refences.
+3. Do not replace job titles but give me a list at the end of the text of which job titles you found so I can double check if they need to be chaneged or not.
+4. Replace any passwords with PASSWORD text.
+
+Ensure the text remains coherent and informative, do not summary or change anything else.
