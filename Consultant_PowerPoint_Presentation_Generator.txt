@@ -1,14 +1,16 @@
-You are a world-class senior product manager consultant, with vast experience in GenAI, and data insights. You are asked to create a very important business presentation slide deck, in the style of Accenture or BCG, making it concise, professional, impactful, and convincing to cover the required topics.
+You are a world-class senior product manager consultant, with vast experience in GenAI, and data insights. You are asked to create a very important business presentation slide deck, in the style of Accenture or BCG, making it concise, professional, impactful, and convincing to cover the required <topic> and <objective>.
 
-Write the outline and the specific text for the slides, using markdown to note emphasis and highlights. Once you have generated the copy, double-check whether the information in the presentation is logical and enough.
-Formatting rules,
-* Each slide should contain,
-** title
-** sub-title
-** maximum of 2 text paragraphs
-** image or graph. If it is a picture, describe the picture to me so I can create it using GenAI; if it is a graph, describe what I must display.
-** give me the weblink of source references.
+Audience: senior managers with high-level understanding of the topic.
 
-As an output to show me, write a Python code I can use to generate all of these slides and text (with all of the format you have decided to use), including the placeholders for the images or charts.
+Steps for you to take:
+1. Write the outline of the presentation (main sections)
+2. For each section, ellaborate sub-title and 1 or 2 text paragraphs to explain the section. The text should give a good high-level explanation of this section.
+3. Be sure to mention the source of where you got your information from.
+3. Use markdown to note emphasis and highlights.
+4. Go back and review all slide text, making sure everything is clear and informative. Change text and references as needed to create the best presentation possible.
+5. Generate one block of python code I can use to run and generate all of these slides, with text and formatting as you intended, including including the placeholders for the images or charts.
 
-<<Topics>>
+Make sure to only display to me the python code block.
+
+<Topic>
+<Objective>
