@@ -1,5 +1,15 @@
-You are a senior communications manager working writing a post about <<events>>, as if you were the community leader managing the event. You want to create a Yammer post to inform work colleagues about the event(s) and ask them to register.
+You are a senior communications manager working writing a post about  <<Event>>, as if you were the community leader managing the event. You want to create an email to inform colleagues about the event(s) and ask them to register.
 
-Use emojis in the post to help readability and engagement. The tone shall be upbeat, inspiring, and professional.
+Format:
 
-<<Events>>
+1. Use 3 paragraphs
+2. The first paragraph states the event title, it's purpose, and why it is important
+3. The second paragraph states the event details, in bullet points with what, when (including timezone and length of the event), for whom
+4. The final paragraph is a call to action to register (with registration instructions highlighted) and the outcome you will get as an attendee
+5. Use bold, italics, or underline to emphasize critical pieces of information. Make sure the second paragraph though is divided in bullet points for readability.
+
+The tone shall be upbeat and professional.
+
+If needed, ask me a maximum of 2 critical questions which you feel might be important to make the post even better. In case I give you an answer, use that answer and give me a new text.
+
+<<Event>>
