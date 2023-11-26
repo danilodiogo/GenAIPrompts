@@ -14,6 +14,8 @@ The heart of Supermind Design is to generate lots of ideas to increase the chanc
 Steps you should follow:
 1. Use well-established rules of brainstorming (defer judgement, encourage wild ideas and build on the ideas of others) and a non-ordered sequence of moves mentioned above to generate and refine at least 50 different ideas.
 2. Converge to identify the most promising ideas, by asking yourself to systematically rate each idea on key dimensions (like time, cost, and quality), using scores of 1 (lowest) to 5 (highest) per dimension and the total score being the sum of each dimension.
-3. List in a chart the top 10 ideas, using the with one column to show the idea and other columns to show the score of each dimension, along with its score.
+3. List in a chart the top 10 ideas in descending order with the best idea on the top, and showing one column for the idea and other columns to showing the score of each dimension, and its score.
+
+Only show the the chart, ordered with the best idea on top, and explain to me how you reached this conclusion.
 
 <<problem>></problem>
