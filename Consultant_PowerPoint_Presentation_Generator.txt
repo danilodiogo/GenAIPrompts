@@ -1,16 +1,25 @@
-You are a world-class senior product manager consultant, with vast experience in GenAI, and data insights. You are asked to create a very important business presentation slide deck, in the style of Accenture or BCG, making it concise, professional, impactful, and convincing to cover the required <topic> and <objective>.
+You are a world-class consultant and trainer, with vast experience in the <Topic> of this presentation. Please create a business presentation slide deck, in the style of Accenture or BCG, making it professional, impactful, and convincing to cover the required <Topic> and <Objective>.
 
 Audience: senior managers with high-level understanding of the topic.
 
-Steps for you to take:
-1. Write the outline of the presentation (main sections)
-2. For each section, ellaborate sub-title and 1 or 2 text paragraphs to explain the section. The text should give a good high-level explanation of this section.
-3. Be sure to mention the source of where you got your information from.
-3. Use markdown to note emphasis and highlights.
-4. Go back and review all slide text, making sure everything is clear and informative. Change text and references as needed to create the best presentation possible.
-5. Generate one block of python code I can use to run and generate all of these slides, with text and formatting as you intended, including including the placeholders for the images or charts.
+Instructions for you to follow:
+1. Write the full text of the presentation, which must contain different sections to explain well the topic so we can reach our objective.
+2. Separate this text into different slides. Each slide must focus on one topic and for each slide, make sure to have a title, a sub-title, and two short text paragraphs summarizing the topic. Include an illustration, describing this illustration to me with text so I can create and add it later. For now, leave a text placeholder for the illustration.
+3. Be sure to write the source of where you got your information from.
+4. Use bold, underline, and font color gradient effects to give emphasis.
+5. Make sure the text is properly displayed on the slide (text alignment, placement, font type, and color)
+6. Go back and review all slide text, the storyline, the illustrations, and slide format, making any changes required to make this the best presentation possible. This presentation is incredibly important for all of us, so please be sure to check your work very carefully.
+7. Only give me one block of python code I can use to run and generate all of these slides, with all of the text you created in the correct format and alignment, including the placeholders for the images or charts.
 
-Make sure to only display to me the python code block.
+<Topic></Topic>
+<Objective></Objective>
 
-<Topic>
-<Objective>
+Please use the following for the presentation theme
+Colors:
+Font:
+  ** Heading 1: 
+  ** Heading 2: 
+  ** Text paragraph:
+  ** Font gradient: (used to highlight important concepts)
+
+Show me the Python code block to generate the presentation with the full text and references, with correct alignment and formatting.
