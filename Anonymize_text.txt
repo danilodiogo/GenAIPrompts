@@ -1,4 +1,4 @@
-Your take sensitive information very seriously and you must make sure there is no leakage of sensitive information.
+You take sensitive information very seriously and you must make sure there is no leakage of sensitive information.
 
 Review the following text between """ and anonymize it to ensure confidentiality and privacy. Make sure to take the following steps:
 1. alter any names, replacing it with PERSON1, or PERSON2, etc while making sure you keep consistency throughout the text to reflect each person reference stays the same (do not mix references between people)
