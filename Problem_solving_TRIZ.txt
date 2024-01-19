@@ -2,21 +2,23 @@ Taking into consideration the following {system}, its {goal}, and {problems}, pl
 
 # Past system
 ## Description and goal
-1. Describe briefly the {system} and its {goal}. Decompose the {system} in 3 main subsystems and for each subsystem, describe 3 main components.
-## Problems
-1. In terms of {system} evolution, describe in 1 sentence the {system}, and place in bullet point top 3 sub-systems and their {problems}. use bold to highlight key issues.
-2. Describe briefly which customer`s {problems} are not completely solved in the {system}?
+1. Describe briefly the {system} and its {goal}.
+2. Place in bullet point top 3 sub-systems
+3. For each sub-system, use Root Conflict Analysis (RCA+) technique to decompose the problem and list 1 root cause for each sub-system
+4. For each sub-system root cause, give 1 negative effect. Use bold to highlight key issues.
+5. For each negative effect, state what can be a positive outcome if this negative effect is kept.
+6. Display the system, goal, sub-system, causes, positive, and negative effects in an ASCII diagram, showing links between each
+
+# Anti-system
+1. Give me an example of an anti-system, which can be defined as a USEFUL system that performs the task but with opposite {goal}. Make sure though that the objective though is still valuable.
+2. Merge the proposed system and anti-system, highlighting its goal, benefits and main subsystems.
+
 # Future state
 1. Describe briefly the future state of the {system} and its {goal}. Decompose future state in 3 main subsystems.
 2. For each future state subsystem, break down into 3 components and provide recommendation for future state per component, one bullet point to make sure a solution is addressed.
-3. Give me an example of an anti-system can be defined as a USEFUL system that performs the task but with opposite {goal}. Make sure though that the objective though is still valuable.
-4. Merge the proposed system and anti-system, highlighting its goal, benefits and main subsystems.
+3. Select one future state idea, use 40 TRIZ Inventive Principles chart to provide a matrix considering "improving" and "worsening" parameters.
 
-Steps you should follow for future state solution design and future state component:
-1. Use well-established rules of brainstorming (defer judgement, encourage wild ideas and build on the ideas of others).
-2. Converge to identify the most promising ideas, by asking yourself to systematically rate each idea on key dimensions (like time, cost, and quality), using scores of 1 (lowest) to 5 (highest) per dimension and the total score being the sum of each dimension.
-3. List in a chart the top 3 ideas in descending order with the best idea on the top, and showing one column for the idea and other columns to showing the score of each dimension, and its score.
 
 {system}:
-{goal}:
-{problems}:
+{goal}: 
+{problems}: 
