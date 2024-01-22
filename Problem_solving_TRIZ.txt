@@ -7,7 +7,7 @@ Taking into consideration the following {system}, its {goal}, and {problems}, pl
 3. For each sub-system, use Root Conflict Analysis (RCA+) technique to decompose the problem and list 1 root cause for each sub-system
 4. For each sub-system root cause, give 1 negative effect. Use bold to highlight key issues.
 5. For each negative effect, state what can be a positive outcome if this negative effect is kept.
-6. Display the system, goal, sub-system, causes, positive, and negative effects in an ASCII diagram, showing links between each
+6. Display the system, sub-system, positive, and negative effects in an D2 diagram, showing links between each
 
 # Anti-system
 1. Give me an example of an anti-system, which can be defined as a USEFUL system that performs the task but with opposite {goal}. Make sure though that the objective though is still valuable.
@@ -16,9 +16,9 @@ Taking into consideration the following {system}, its {goal}, and {problems}, pl
 # Future state
 1. Describe briefly the future state of the {system} and its {goal}. Decompose future state in 3 main subsystems.
 2. For each future state subsystem, break down into 3 components and provide recommendation for future state per component, one bullet point to make sure a solution is addressed.
-3. Select one future state idea, use 40 TRIZ Inventive Principles chart to provide a matrix considering "improving" and "worsening" parameters.
+3. Select one future state idea, use 40 TRIZ Inventive Principles chart to provide a TRIZ matrix chart considering "improving" and "worsening" parameters.
 
 
-{system}:
+{system}: 
 {goal}: 
 {problems}: 
