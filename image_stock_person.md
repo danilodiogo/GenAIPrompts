@@ -1,9 +1,7 @@
  # Model
  SDXL 1.0
 
- # Prompt [^1]
- [^1]: https://www.reddit.com/r/StableDiffusion/comments/15cbgz6/i_spent_over_100_hours_researching_how_to_create/?share_id=Yn-hM6MBQ31EdyiJkLyED&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=2
- 
+ # Prompt [^1] 
     "[STYLE OF PHOTO] photo of a [SUBJECT], [IMPORTANT FEATURE], [MORE DETAILS], [POSE OR ACTION], [FRAMING], [SETTING/BACKGROUND], [LIGHTING], [CAMERA ANGLE], [CAMERA PROPERTIES]"
 
 Example:
@@ -29,3 +27,5 @@ Dutch angle, from above/high angle, from below/low angle, eye level.
 
 ## CAMERA PROPERTIES
 iPhone, RED Digital Cinema Camera, Canon EOS 5D, Fujifilm X-T4, Hasselblad X1D II
+
+ [^1]: https://www.reddit.com/r/StableDiffusion/comments/15cbgz6/i_spent_over_100_hours_researching_how_to_create/?share_id=Yn-hM6MBQ31EdyiJkLyED&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=2
